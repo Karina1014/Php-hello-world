@@ -37,7 +37,7 @@ docker pull karina1014/php-hello-world:v1.0
 ### View the results
 You can open de VSC and run this :
 ```
-    docker run -it karina1014/php-hello-world:v1.0
+docker run -it karina1014/php-hello-world:v1.0
 ```
 Use this command to confirm that the image is available in your Docker environment.
 
