@@ -22,7 +22,6 @@ php --version
 
 You need to link your Github account.
 
-![image](https://github.com/user-attachments/assets/51bd074e-28b5-4dcd-adbf-f05305952b72)
 
 
 For the project, the practice is done to view the hello world on the console, in this case seeing through the Railway logs.
