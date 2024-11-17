@@ -1,0 +1,8 @@
+{
+    "name": "HELLO-WORDL-PHP",
+    "description": "A simple PHP application",
+    "require": {
+      "php": ">=7.4"
+    }
+  }
+  
