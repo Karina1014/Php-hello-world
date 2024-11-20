@@ -2,6 +2,13 @@
 
 This project creates a simple PHP program that prints "Hello World" to the screen, demonstrating the setup and successful execution of PHP code.
 
+## 🚨 About the Project 🚨  
+
+This project contains the following branches:  
+
+- **`main` Branch**: Includes the app with the `Dockerfile`, ready to build and uploaded to DockerHub.  
+- **`productionPHP` Branch**: Contains the deployed version of the app on Render.  
+
 ## Getting Started
 * Clone the repository
 
@@ -12,7 +19,7 @@ git clone https://github.com/Karina1014/Php-hello-world.git
 
 ## Prerequisites
 
-Make sure you have PHP 7.4 or above installed. You can check your PHP version by running the following command in your terminal:
+Make sure you have PHP 8.2.25 or above installed. You can check your PHP version by running the following command in your terminal:
 
 ```sh
 php --version
@@ -42,16 +49,8 @@ docker run -it karina1014/php-hello-world:v1.0
 Use this command to confirm that the image is available in your Docker environment.
 
 
-## Deploy with Railway
-
-You need to link your Github account.
-
-![image](https://github.com/user-attachments/assets/51bd074e-28b5-4dcd-adbf-f05305952b72)
-
-
-For the project, the practice is done to view the hello world on the console, in this case seeing through the Railway logs.
+![image](https://github.com/user-attachments/assets/23bd1156-1ad1-46b9-89bd-fcd277a6f9d8)
 
 ## Results
-Result:
 
 View the Hello from PHP!
