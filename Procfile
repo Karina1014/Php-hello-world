@@ -1,1 +1,1 @@
-web: php -S 0.0.0.0:5000 index.php
+php -S 0.0.0.0:8005
